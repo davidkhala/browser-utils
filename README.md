@@ -1,2 +1,2 @@
-# browserUtils
+# browser JS utils
 
