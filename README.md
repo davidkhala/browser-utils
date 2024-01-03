@@ -1,2 +1,4 @@
-# browser JS utils
+# JavaScript in browser
+
+
 
